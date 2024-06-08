@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋, I'm Beatriz Asuncion</h1>
 <h3 align="center">Coding the Path to Success: A Journey in Computer Science at NU-Manila</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/2IudUHdI075HL02Pkk">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/HgGaTzsfY19kRi9m9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beaasuncion&label=Profile%20views&color=0e75b6&style=flat" alt="beaasuncion" /> </p>
 
