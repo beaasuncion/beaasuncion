@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- ⚡ Fun fact **My bone broke because of longganisa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
